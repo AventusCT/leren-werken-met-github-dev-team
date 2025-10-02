@@ -5,7 +5,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #FF69B4;
+    background-color: #9c9c9c;
 }
 
 h1 {
@@ -21,7 +21,7 @@ table {
 }
 
 table, th, td {
-    border: 5px solid #000000;
+    border: 5px solid #390095;
 }
 
 th, td {
@@ -34,7 +34,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #868686;
 }
 
 li {
@@ -55,5 +55,5 @@ li a {
 }
 
 li a:hover {
-    background-color: darkblue;
+    background-color: rgb(179, 179, 179);
 }
